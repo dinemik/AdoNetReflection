@@ -1,0 +1,14 @@
+C:\Users\davit\source\repos\AdoNetReflection\AdoNetReflection\bin\Debug\AdoNetReflection.pdb
+C:\Users\davit\source\repos\AdoNetReflection\AdoNetReflection\obj\Debug\AdoNetReflection.csproj.CoreCompileInputs.cache
+C:\Users\davit\source\repos\AdoNetReflection\AdoNetReflection\obj\Debug\AdoNetReflection.pdb
+C:\Users\davit\source\repos\AdoNetReflection\AdoNetReflection\bin\Debug\AdoNetReflection.exe.config
+C:\Users\davit\source\repos\AdoNetReflection\AdoNetReflection\bin\Debug\AdoNetReflection.exe
+C:\Users\davit\source\repos\AdoNetReflection\AdoNetReflection\obj\Debug\AdoNetReflection.exe
+C:\Users\davit\source\repos\AdoNetReflection\AdoNetReflection\obj\Debug\AdoNetReflection.csprojAssemblyReference.cache
+C:\Users\davit\OneDrive\Desktop\AdoNetReflection\AdoNetReflection\bin\Debug\AdoNetReflection.exe.config
+C:\Users\davit\OneDrive\Desktop\AdoNetReflection\AdoNetReflection\bin\Debug\AdoNetReflection.exe
+C:\Users\davit\OneDrive\Desktop\AdoNetReflection\AdoNetReflection\bin\Debug\AdoNetReflection.pdb
+C:\Users\davit\OneDrive\Desktop\AdoNetReflection\AdoNetReflection\obj\Debug\AdoNetReflection.csprojAssemblyReference.cache
+C:\Users\davit\OneDrive\Desktop\AdoNetReflection\AdoNetReflection\obj\Debug\AdoNetReflection.csproj.CoreCompileInputs.cache
+C:\Users\davit\OneDrive\Desktop\AdoNetReflection\AdoNetReflection\obj\Debug\AdoNetReflection.exe
+C:\Users\davit\OneDrive\Desktop\AdoNetReflection\AdoNetReflection\obj\Debug\AdoNetReflection.pdb
