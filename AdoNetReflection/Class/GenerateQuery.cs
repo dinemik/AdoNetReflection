@@ -12,8 +12,6 @@ namespace AdoNetReflection.Class
 {
     public class GenerateQuery
     {
-        private readonly string ConsStr = ConfigurationManager.ConnectionStrings["ReflectionConnectionString"].ConnectionString;
-
         public string GenerateSelectQuery(object tbl, List<string> condition)
         {
             string command = $"select * from dbo.{tbl.GetType().Name}" +
